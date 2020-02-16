@@ -1,0 +1,11 @@
+fuel
+diesel
+petrol
+petroleum
+hp
+bpcl
+pump
+leaded
+unleaded
+gas
+gasoline
